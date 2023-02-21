@@ -1,2 +1,2 @@
 # Recreating-the-Past-HW1
-Recreating Vera Molnar's Artworks with **OpenFramworks**.
+Recreating Vera Molnar's Artworks with **OpenFrameworks**.
